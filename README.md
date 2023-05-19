@@ -42,8 +42,7 @@ and provide insights on a monthly, weekly, quarterly, and yearly basis.`
 # Conclusion
 `The business intelligence solution developed in this project provides HPN with valuable insights into its sales and returns, helping it make informed decisions and improve its operations.
 
-Feel free to customize this outline and add more details about your specific implementation of the project. Good luck with your README.md file!
-`
+
 
 
 
